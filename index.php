@@ -1329,6 +1329,6 @@ function loadDash(){
 renderTmpls();
 loadDash();
 rcm();updSS();
-</script>
+</script> 
 </body>
 </html>
