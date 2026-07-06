@@ -16,7 +16,7 @@ if (!isAppAuthenticated()) {
             'message' => 'Session expired. Please login again.',
             'redirect' => 'login.php',
         ]);
-        exit;
+        exit; 
     } 
 
     header('Location: login.php');
