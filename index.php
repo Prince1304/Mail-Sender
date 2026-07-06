@@ -32,8 +32,8 @@ require_once __DIR__ . '/config/database.php';
 // ═══════════════════════════════════════════════════════════════════════════════
 define('SMTP_HOST',  'smtp.gmail.com');
 define('SMTP_PORT',  587);
-define('SMTP_USER',  'kyadaajay34@gmail.com');
-define('SMTP_PASS',  'kgxtoloulmtfkjbk');
+define('SMTP_USER', 'your gmail id');
+define('SMTP_PASS',  'Gmail app password');
 define('FROM_EMAIL', 'system@mytaskmanager.com');
 define('FROM_NAME',  'My Task Manager');
 
