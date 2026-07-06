@@ -14,7 +14,7 @@ if (!isAppAuthenticated()) {
         echo json_encode([
             'success' => false,
             'message' => 'Session expired. Please login again.',
-            'redirect' => 'login.php',
+            'redirect' => 'login.php', 
         ]);
         exit; 
     } 
