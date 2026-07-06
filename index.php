@@ -17,7 +17,7 @@ if (!isAppAuthenticated()) {
             'redirect' => 'login.php',
         ]);
         exit;
-    }
+    } 
 
     header('Location: login.php');
     exit;
