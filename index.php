@@ -7,7 +7,7 @@ if (isset($_GET['logout'])) {
 }
 
 $isAjaxRequest = $_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['ajax']);
-if (!isAppAuthenticated()) {
+if (!isAppAuthenticated()) { 
     if ($isAjaxRequest) {
         http_response_code(401);
         header('Content-Type: application/json');
