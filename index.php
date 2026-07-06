@@ -20,7 +20,7 @@ if (!isAppAuthenticated()) {
     } 
 
     header('Location: login.php');
-    exit;
+    exit; 
 }
 
 require_once __DIR__ . '/config/database.php';
