@@ -3,7 +3,7 @@ require_once __DIR__ . '/config/auth.php';
 if (isset($_GET['logout'])) {
     logoutAppUser();
     header('Location: login.php');
-    exit;
+    exit; 
 }
 
 $isAjaxRequest = $_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['ajax']);
