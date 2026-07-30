@@ -51,7 +51,7 @@ To deploy this project or run it locally, make sure your environment has:
 *   **⚡ Change the Code:** Don't forget to update the hardcoded 4-digit PIN in the source file before sharing it with the world!
 *   **🛡️ Rate Limiting:** Add a quick brute-force check to keep the entry portal completely bulletproof.
 *   **🔒 Session Refresh:** Use `session_regenerate_id(true)` upon a successful login for that extra layer of absolute peace of mind! 
-
+ 
 --- 
 
 Made with ❤️ and good energy. Happy sending! 💌✨
