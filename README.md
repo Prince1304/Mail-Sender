@@ -15,7 +15,7 @@ Let's scale your outreach and spread those good vibes directly to your audience'
 
 ---
 
-## 🛠️ Prerequisites
+## 🛠️ Prerequisites 
 
 To deploy this project or run it locally, make sure your environment has:
 *   **🐘 PHP:** Version 7.4 or higher (with `session` and standard mail extensions ready to roll).
