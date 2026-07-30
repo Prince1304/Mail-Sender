@@ -22,7 +22,7 @@ To deploy this project or run it locally, make sure your environment has:
 *   **🌐 Web Server:** Apache (with `mod_rewrite` enabled) or Nginx.
 *   **🔒 SSL Certificate:** Highly recommended to keep your sessions encrypted and secure!
 
----
+--- 
 
 ## 🚀 Quick Setup & Installation 
 
