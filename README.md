@@ -9,7 +9,7 @@ Let's scale your outreach and spread those good vibes directly to your audience'
 ## 🔥 Key Features
 
 *   **🔒 Secure Access Portal:** Protected by a mandatory 4-digit administrative passcode to keep the bad vibes out.
-*   **🛡️ Session-Based Protection:** Uses native PHP sessions (`session_start()`) to keep the dashboard locked safe and sound until you hit log out.  
+*   **🛡️ Session-Based Protection:** Uses native PHP sessions (`session_start()`) to keep the dashboard locked safe and sound until you hit log out. 
 *   **📈 Campaign Control Center:** A centralized hub to draft, configure, and blast beautifully formatted marketing emails to your lists.
 *   **🎨 Clean & Cozy UI:** A minimalist, modern interface built with beautiful typography to keep your workflow distraction-free and smooth!
 
