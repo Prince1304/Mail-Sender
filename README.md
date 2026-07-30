@@ -37,7 +37,7 @@ To deploy this project or run it locally, make sure your environment has:
 
 ---
 
-## 🔑 How to Use
+## 🔑 How to Use 
 
 1.  Navigate to your app URL. 🕸️
 2.  You will land on the **Secure Access Portal**. 🔐
