@@ -52,6 +52,6 @@ To deploy this project or run it locally, make sure your environment has:
 *   **🛡️ Rate Limiting:** Add a quick brute-force check to keep the entry portal completely bulletproof.
 *   **🔒 Session Refresh:** Use `session_regenerate_id(true)` upon a successful login for that extra layer of absolute peace of mind! 
 
----
+--- 
 
 Made with ❤️ and good energy. Happy sending! 💌✨
