@@ -24,7 +24,7 @@ To deploy this project or run it locally, make sure your environment has:
 
 ---
 
-## 🚀 Quick Setup & Installation
+## 🚀 Quick Setup & Installation 
 
 1.  **📂 Drop the Files:** Clone or upload the project files right into your web server's root directory (like `/var/www/html` or `public_html`).
 2.  **🔧 Debug Control:** The app includes quick error-reporting triggers at the very top for lightning-fast troubleshooting during setup:
